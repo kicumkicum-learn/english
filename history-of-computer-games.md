@@ -21,7 +21,7 @@ The 1970s was also the era of mainframe computer games.
 The golden age of arcade video games was from 1978 to 1982.
 
 Video arcades with large, graphics-decorated coin-operated machines
-were common at malls and popular, affordable home consoles such as
+were common at malls and popular, [affordable](dostupniy 'доступный') home consoles such as
 the Atari 2600 and Intellivision enabled people to play games on their home TVs.
 
 [During](v_techenie "В течение") the 1980s, gaming computers, early online gaming
